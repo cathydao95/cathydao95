@@ -7,7 +7,7 @@
 
 - 📚 I’m currently studying and improving my knowledge in JavaScript and React
 
-- 👩🏻‍💻  I’m currently working on building a full-stack workout tracker application.
+- 👩🏻‍💻  I’m currently working on building a full-stack recipe application.
 
 - ⚡ Fun fact: I'm training for a marathon and love finding new trails. 🍃
 
