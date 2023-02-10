@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with other developers and web/UX/UI designers to create accessible and creative web applications.
 
-- 📚 I’m currently studying and improving my knowledge in JavaScript and React
+- 📚 I’m currently studying and improving my knowledge in CSS
 
 - 👩🏻‍💻  I’m currently working on building a full-stack recipe application.
 
