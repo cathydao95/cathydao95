@@ -1,13 +1,10 @@
 <h2>Hi there, I'm Cathy!</h2>
-<p>I'm a front-end developer.</h3>
 
 - 📍 I'm based in Los Angeles, California
 
 - 👯 I’m looking to collaborate with other developers and web/UX/UI designers to create accessible and creative web applications.
 
-- 📚 I’m currently studying and improving my knowledge in CSS
-
-- 👩🏻‍💻  I’m currently working on building a full-stack recipe application.
+- 📚 I’m currently studying and improving my knowledge in JavaScript.
 
 - ⚡ Fun fact: I'm training for a marathon and love finding new trails. 🍃
 
