@@ -2,7 +2,7 @@
 
 - 📍 I'm based in Los Angeles, California
 
-- 👯 I’m looking to collaborate with other developers and web/UX/UI designers to create accessible and creative web applications.
+- 👯 I’m looking to collaborate with other developers to create accessible and creative web applications.
 
 - 📚 I’m currently studying and improving my knowledge in JavaScript.
 
